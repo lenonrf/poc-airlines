@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <ROUTE
+            ID_ROUTE="1"
+            AIRPORT_ORIGIN="GRU"
+            AIRPORT_DESTINATION="BRC"
+            COST="10"/>
+
+    <ROUTE
+            ID_ROUTE="2"
+            AIRPORT_ORIGIN="BRC"
+            AIRPORT_DESTINATION="SCL"
+            COST="5"/>
+
+    <ROUTE
+            ID_ROUTE="3"
+            AIRPORT_ORIGIN="GRU"
+            AIRPORT_DESTINATION="CDG"
+            COST="75"/>
+
+    <ROUTE
+            ID_ROUTE="4"
+            AIRPORT_ORIGIN="GRU"
+            AIRPORT_DESTINATION="SCL"
+            COST="20"/>
+
+    <ROUTE
+            ID_ROUTE="5"
+            AIRPORT_ORIGIN="GRU"
+            AIRPORT_DESTINATION="ORL"
+            COST="56"/>
+
+    <ROUTE
+            ID_ROUTE="6"
+            AIRPORT_ORIGIN="ORL"
+            AIRPORT_DESTINATION="CDG"
+            COST="5"/>
+
+    <ROUTE
+            ID_ROUTE="7"
+            AIRPORT_ORIGIN="SCL"
+            AIRPORT_DESTINATION="ORL"
+            COST="20"/>
+</dataset>
